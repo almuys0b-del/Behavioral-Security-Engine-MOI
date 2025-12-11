@@ -55,17 +55,15 @@ Used for dynamic and adaptive response.
 
 Repository includes only non-sensitive placeholder structure:
 
-/docs
-theory_summary.pdf
-system_overview.png
+### 🔗 Live Prototype (Manus Simulation)
+This MVP was developed and demonstrated using **Manus AI**, a secure sandbox environment for rapid prototyping.
 
-/prototype
-placeholder.txt
+🔗 **Access the live prototype:**  
+https://manus.im/app/…(ضع رابط مشروعك هنا)
 
-/screenshots
-*.png
+> *Note:* This link provides a simulation-only version without production logic.  
+https://behavdetect-pbtxxjbz.manus.space/kpis
 
-README.md
 
 
 ---

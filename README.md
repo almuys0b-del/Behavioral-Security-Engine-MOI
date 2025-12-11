@@ -59,8 +59,6 @@ Repository includes only non-sensitive placeholder structure:
 This MVP was developed and demonstrated using **Manus AI**, a secure sandbox environment for rapid prototyping.
 
 🔗 **Access the live prototype:**  
-https://manus.im/app/…(ضع رابط مشروعك هنا)
-
 > *Note:* This link provides a simulation-only version without production logic.  
 https://behavdetect-pbtxxjbz.manus.space/kpis
 
